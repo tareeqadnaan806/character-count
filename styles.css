@@ -48,3 +48,13 @@ textarea{
     justify-content: space-between;
     margin-top: 40px;
 }
+
+ #total{
+    color: blueviolet;
+    font-size: larger;
+ }
+
+ #remaining{
+    color: rgb(64, 29, 5);
+    font-size: larger;
+ }
